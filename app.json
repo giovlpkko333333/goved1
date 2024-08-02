@@ -1,0 +1,13 @@
+{
+  "name": "سورس الجوكر المجاني | Source AL-Joker Free",
+  "description": "اللهم صلِ على محمد وآل محمد",
+  "logo": "https://i.ibb.co/wcW2S4d/Ephoto360-com-163942f57f3305.jpg",
+  "keywords": ["plugin", "modular", "productivity"],
+  "repository": "https://github.com/jepthoniq/lMl10l/",
+  "website": "#TODO",
+  "success_url": "#TODO",
+  "env": {
+    "tok": {
+      "description": "هنا ضع اسم التلجرام الخاص بك",
+      "value": ""
+}
